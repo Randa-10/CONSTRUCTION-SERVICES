@@ -1,0 +1,343 @@
+#sec-1 span ,aside h2,#sec-2 h1{
+color: RGB(255,203,15);
+}
+#sec-1 .first{
+    background-color:#FFCB0F ;}
+#sec-1 nav h1{
+    color: RGB(255,255,255);
+    font-size: 2rem;
+    font-style:italic;
+}
+.axx1{
+	/* display: inline-block !important; */
+    color: rgb(49, 49, 49);
+}
+#sec-1 .ccv{
+    color: rgb(49, 49, 49);
+
+}
+.social3 a {
+	display: inline-block !important;
+	text-align: center;
+    margin-left: 10px;
+}
+.social3 i{
+    color: rgb(49, 49, 49);
+}
+#sec-2 h1{
+    font-size: 2.3rem;
+}
+#sec-1 nav p{
+font-size: 1rem;
+color: RGB(137,138,139);
+}
+#sec-1  nav a{
+    color: RGB(255,255,255);
+padding-left: 30px;
+}
+ #sec-1 nav{
+        background-color:RGB(34,37,51) ;
+    }
+ #sec-1 .klm{
+     color:RGB(255,203,15);
+ }
+ #sec-1 aside p ,aside h1{
+     color: RGB(255,255,255);
+ }
+ #sec-1 aside .btn{
+     border: 2px solid RGB(255,203,15) ;
+     background-color: RGB(0,0,0);
+     color: RGB(255,203,15) ;
+     font-size: 1.2rem;
+     margin-bottom: 150px;
+ }
+ #sec-1 {
+        background:linear-gradient(RGBA(0,0,0,.5),RGBA(0,0,0,.5)) , url('../images/banner.jpg') 
+        no-repeat -580px center;
+        /* height: 100vh; */
+    }
+#sec-2 .btn ,#sec-4 .btn{
+    background-color: RGB(255,203,15);
+    font-size: 1.4rem;
+    color: RGB(255,255,255);
+    border-radius: .5rem;
+    padding: 10px 25px;
+}
+#sec-4 .btn{
+    background-color: RGB(255,203,15);
+    font-size: 1rem;
+    color: RGB(255,255,255);
+    border-radius: .5rem;
+    padding: 10px 25px;
+}
+
+#sec-2 h3{
+    font-size: 1.2rem;
+    color: RGB(63,63,63);
+}
+#sec-2 p{
+    color: RGB(33,37,41);
+    text-align: justify;
+    font-size: 1rem;
+    
+}
+
+#sec-3 {
+    background:linear-gradient(RGBA(0,0,0,.5),RGBA(0,0,0,.5)) , url('../images/bg4.jpg') 
+    no-repeat  ;
+    /* height: 100vh; */
+    background-size: cover;
+}
+.display-5 {
+    font-size: 2rem;
+    color: RGB(255,203,15);
+
+}
+
+#sec-3 h5{
+    font-size: 1.2rem;
+    color: RGB(63,63,63);
+    text-align: center;
+}
+#sec-3 p{
+    font-size: 1rem;
+    text-align: center;
+}
+.lead{
+    background-color: RGBA(0,0,0,.5);
+    border-radius: .5rem;
+}
+.ho{
+    background-color: RGB(229,229,229);
+}
+.pho img{
+     width: 50px;
+    margin-left: 220px;
+        
+      
+}
+.pho {
+    background-color:RGB(255,203,15) ;
+    padding: 30px 0;
+border-radius: 50%;
+} 
+#sec-4 h3{
+font-size: 2rem;
+       color: RGB(72,72,72);
+}
+#sec-4 span
+{
+    right: 0;
+    bottom: 0px;
+    background-color: RGBA(0,0,0,.6);
+   width: 100%;
+   text-align: center;
+   font-size: 1.4rem;
+   padding: 13px 0px;
+   font-weight: bold;
+}
+
+#sec-5 {
+    background:linear-gradient(rgb(73, 73, 73,.7),rgb(73, 73, 73,.7)) , url('../images/bg2.jpg') 
+    no-repeat  ;
+    /* height: 100vh; */
+    background-size: cover;
+    color: rgb(248, 247, 247);
+    margin-top: 100px;
+}
+#sec-5 .container{
+    text-align: center;
+}
+#sec-5 .btn{
+    color: rgb(248, 247, 247);
+    border: 0px;
+    padding: 5px 25px;
+    text-transform: uppercase;
+}
+#sec-5 .btn:hover{
+    color: rgb(248, 247, 247);
+    border: 1px solid rgb(37, 37, 37);
+}
+
+#sec-6{
+    background:url('../images/bg3.jpg') 
+    no-repeat  ;
+    /* height: 100vh; */
+    background-size: cover;
+}
+#sec-6 .ho p{
+   color: RGB(110,110,110)
+}
+#sec-6 .ho2 {
+    background-color: RGB(255,203,15);
+    color: rgb(248, 246, 246);
+}
+#sec-6 .icon1{
+width: 15%;
+
+}
+#sec-6 .icon{
+    padding-top: 0;
+    border: none;
+    background-color: initial;
+}
+.icon2{
+    margin-top: 15PX;
+    background-color: initial;
+}
+.kl{
+    border: none;
+    background-color: initial;
+
+
+}
+.icon2 h1{
+    font-size: .8rem;
+    font-weight: bold;
+    padding-top: 5px;
+
+
+}
+.ico3{
+    border-radius: 50%;
+    background-color: inherit;
+    
+}
+#sec-7{
+    background-color:RGB(254,219,93) ;
+    font-size: 1rem;
+    border-bottom: 50px solid RGB(102,107,116);
+}
+#sec-7  h6{
+    font-size:2rem;
+    margin-left: 10px;
+    color:RGB(102,107,116) ;
+}
+#sec-7  h2{
+    font-size:2.5rem;
+    margin-left: 10px;
+    color:RGB(102,107,116) ;
+}
+#sec-7 .btn{
+    background-color:RGB(102,107,116) ;
+    padding: 8px 25px;  
+}
+#sec-8{
+    background:linear-gradient(rgb(0,0,0,.9),rgb(0,0,0,.9)) , url(../images/bg2.jpg)
+    no-repeat  ;
+    background-size: cover;
+    color: rgb(223, 222, 222);
+    text-align: justify;
+  
+}
+#sec-8 ul{
+    padding-left: 0;
+
+}
+.bbb{
+    list-style-type:none;
+}
+.social ,.social1{
+    list-style-type: none;
+ 
+}
+
+.social a {
+	display: inline-block !important;
+	border: thin solid #FFCB0F;
+    background-color:#FFCB0F ;
+    color: rgb(36, 36, 36);
+	border-radius: 50%;
+	width: 40px;
+	height: 40px;
+	line-height: 35px;
+	padding: 0;
+	text-align: center;
+	
+}
+.abc{
+    font-size: 1rem;
+    text-align: center;
+}
+.social1 a {
+	display: inline-block !important;
+	border: 2px solid #fffffe;
+    color: #fffffe;
+	border-radius: 50%;
+	width: 60px;
+	height: 60px;
+	line-height: 40px;
+	padding: 0;
+	text-align: center;
+	
+}
+#sec-8 h1{
+    font-size: 1.5rem;
+    color: rgb(252, 249, 249);
+}
+#sec-8 h2{
+    font-size: 2rem;
+    color: #FFCB0F ;
+    font-style: italic;
+}
+.axx{
+    list-style-type: none;
+}
+.axx a{
+    text-decoration: none;
+    color: rgb(252, 249, 249);
+
+}
+#sec-9{
+    background-color:#0E0E14 ;
+    color: rgb(252, 249, 249);
+}
+#sec-9 span{
+    color: #FFCB0F ;
+
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {  
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {  
+	html{
+		font-size: 16px;
+	}
+ #sec-1 aside p:first-of-type{
+        font-size:2.5rem;
+        padding-top: 50px;
+  }
+#sec-2 .nn{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+.ggg{
+    width: 95%;
+}
+.pho img{
+    width: 50px;
+   margin-left: 140px;
+       /* border-radius: 50%; */
+}
+
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    .pho img{
+        margin-left: 80px;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  
+	#sec-1 ,#sec-3, #sec-5,#sec-6,#sec-8{
+		background-position: center center;
+	}
+    .pho img{
+       margin-left: 100px;
+   }
+}   
